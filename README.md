@@ -12,5 +12,5 @@ I2Cx_ReadData
 *Note: Only Module 1 is implemented so far.
 
 # Pinout
-SCL     SDA     Module
+SCL     SDA     Module <br>
  PA6     PA7     I2C1
