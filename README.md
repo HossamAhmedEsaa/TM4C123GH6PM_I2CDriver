@@ -13,5 +13,4 @@ I2Cx_ReadData
 
 # Pinout
 SCL     SDA     Module
----------------------
  PA6     PA7     I2C1
